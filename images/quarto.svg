@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1"
+   width="320"
+   height="77"
+   viewBox="0 0 320 77"
+   sodipodi:docname="quarto.svg"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showguides="true"
+     inkscape:zoom="3.6480411"
+     inkscape:cx="170.50246"
+     inkscape:cy="24.670775"
+     inkscape:window-width="1920"
+     inkscape:window-height="1047"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g1">
+    <sodipodi:guide
+       position="39.800995,41.444444"
+       orientation="1,0"
+       id="guide1"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="97.366536,38.779984"
+       orientation="0,-1"
+       id="guide2"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g1">
+    <g
+       id="g4">
+      <path
+         id="path2"
+         style="fill:#75aadb;fill-opacity:1;stroke:none;stroke-width:0.916794;stroke-linecap:round;stroke-linejoin:round"
+         d="M 41.212891,10.382812 V 36.808594 H 67.697266 A 27.934599,27.934599 0 0 0 41.212891,10.382812 Z m -2.822266,0.0039 A 27.934599,27.934599 0 0 0 11.966797,36.808594 H 38.390625 Z M 11.966797,39.630859 A 27.934599,27.934599 0 0 0 38.390625,66.052734 V 39.630859 Z m 29.246094,0 V 66.052734 A 27.934599,27.934599 0 0 0 67.634766,39.630859 Z" />
+      <g
+         id="g3"
+         style="fill:#4f789e;fill-opacity:1">
+        <text
+           xml:space="preserve"
+           style="font-size:63.4502px;line-height:1;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans';text-align:center;letter-spacing:4.5px;text-anchor:middle;fill:#4f789e;fill-opacity:1;stroke:none;stroke-width:4.75876;stroke-linecap:round;stroke-linejoin:round"
+           x="198.03279"
+           y="55.571404"
+           id="text2"><tspan
+             sodipodi:role="line"
+             id="tspan2"
+             x="200.28279"
+             y="55.571404"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:63.4502px;font-family:'URW Gothic';-inkscape-font-specification:'URW Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:4.5px;fill:#4f789e;fill-opacity:1;stroke-width:4.75876">quarto</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.6061px;line-height:1;font-family:'Font Awesome v4 Compatibility';-inkscape-font-specification:'Font Awesome v4 Compatibility, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:1.14291px;text-anchor:middle;fill:#4f789e;fill-opacity:1;stroke:none;stroke-width:0.126991;stroke-linecap:round;stroke-linejoin:round"
+           x="310.54373"
+           y="22.679428"
+           id="text3"><tspan
+             sodipodi:role="line"
+             id="tspan3"
+             x="311.11517"
+             y="22.679428"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.6061px;font-family:'Font Awesome v4 Compatibility';-inkscape-font-specification:'Font Awesome v4 Compatibility, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#4f789e;fill-opacity:1;stroke-width:0.126991">®</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

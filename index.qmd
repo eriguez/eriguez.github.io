@@ -1,7 +1,18 @@
 ---
-title: "erodriguez.github.io"
+title: "Eric Rodríguez Peralta"
+image: images/profile.png
+about:
+  id: hero-heading
+  template: trestles
+  image-shape: rounded
+  links:
+    - icon: envelope
+      href: "mailto:mail.erodriguez@uagro.mx"
+    - icon: twitter
+      href: https://twitter.com
+    - icon: github
+      href: https://github.com/eriguez
 ---
-
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+:::{#hero-heading}
+Profesor adscrito a la [Facultad de Ingeniería](https://ingenieria.uagro.mx) de la [UAGro](https://www.uagro.mx). Actualmente estoy a cargo del laboratorio de tecnologías avanzadas, soy presidente de la academia arquitectura de computadoras y miembro fundador del Congreso Internacional de Computación CICOM.
+:::
