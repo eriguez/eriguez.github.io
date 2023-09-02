@@ -9,7 +9,7 @@ about:
     - icon: envelope
       href: "mailto:mail.erodriguez@uagro.mx"
     - icon: twitter
-      href: https://twitter.com
+      href: https://twitter.com/eriguezp
     - icon: github
       href: https://github.com/eriguez
 ---
